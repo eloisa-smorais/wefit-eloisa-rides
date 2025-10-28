@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = 'RidesOfMyLifeSDK'
-  spec.version       = '0.0.2'
+  spec.version       = '0.0.3'
   spec.summary       = 'RockApp summary'
   spec.description   = 'RockApp description'
   spec.homepage      = 'https://github.com/eloisa-smorais/RidesOfMyLife.podspec.git'
