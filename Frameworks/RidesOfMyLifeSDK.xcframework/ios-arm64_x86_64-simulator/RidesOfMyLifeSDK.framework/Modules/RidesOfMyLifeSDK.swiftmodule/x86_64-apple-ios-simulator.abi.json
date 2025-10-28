@@ -1,0 +1,21 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "RidesOfMyLifeSDK",
+    "printedName": "RidesOfMyLifeSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "RidesOfMyLifeSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
