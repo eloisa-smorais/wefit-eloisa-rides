@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name          = 'RideOfMyLifeSDK'
+  spec.name          = 'RidesOfMyLifeSDK'
   spec.version       = '0.0.1'
   spec.summary       = 'RockApp summary'
   spec.description   = 'RockApp description'
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.platform      = :ios, '15.1'
 
   spec.ios.vendored_frameworks = [
-    "Frameworks/RideOfMyLifeSDK.xcframework",
+    "Frameworks/RidesOfMyLifeSDK.xcframework",
   ]
 
 end
