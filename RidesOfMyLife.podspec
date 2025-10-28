@@ -11,7 +11,9 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.0'
   spec.platform      = :ios, '15.1'
 
-  spec.ios.vendored_frameworks = [
+s.vendored_frameworks = 'Frameworks/RidesOfMyLifeSDK.xcframework'
+
+  spec.ios.resources = [
     "Frameworks/RidesOfMyLifeSDK.xcframework",
   ]
 
