@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://yourcompany.com/RidesOfMyLifeSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Your Name' => 'you@yourcompany.com' }
-  s.platform         = :ios, '14.0'
+  s.platform         = :ios, '15.1'
 
   # Where to get your SDK
   # (use a Git URL if hosting remotely)
