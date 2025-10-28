@@ -13,8 +13,4 @@ Pod::Spec.new do |spec|
 
 s.vendored_frameworks = 'Frameworks/RidesOfMyLifeSDK.xcframework'
 
-  spec.ios.resources = [
-    "Frameworks/RidesOfMyLifeSDK.xcframework",
-  ]
-
 end
