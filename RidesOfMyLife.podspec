@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'RidesOfMyLifeSDK.xcframework'
 
   # Include resources like JS bundles or images
-  s.resources = [
+  s.resource_bundles = [
     'RidesOfMyLifeSDK.xcframework/**/*.jsbundle',
     'RidesOfMyLifeSDK.xcframework/**/*.png',
     'RidesOfMyLifeSDK.xcframework/**/*.json'
